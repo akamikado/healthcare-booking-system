@@ -1,7 +1,7 @@
-export default function Home() {
+export default function App() {
   return (
     <main>
-      <p className="text-3xl font-bold underline">Hello</p>
+      <h1 className="text-3xl font-bold underline">Hello</h1>
     </main>
   );
 }
